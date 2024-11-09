@@ -8,7 +8,9 @@ The controls:
 
 ## VERSIONS
 *Version 1: Basic prototype. Just to get the hang of movement using the new input system*
+
 *Version 2: Added obstacles that change colour when collided with by the player.*
+
 *Version 1: Added a lot of obstacles, triggers for various events and optimised the visuals for low end devices.*
 
 ### Key Features
