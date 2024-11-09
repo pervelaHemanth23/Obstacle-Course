@@ -20,13 +20,10 @@ The controls:
 
 ### SCREENSHOTS
 
-![Level](https://github.com/pervelaHemanth23/Obstacle-Course/blob/main/Screenshots/1.jpg)
+![Level](https://github.com/pervelaHemanth23/Obstacle-Course/blob/main/Screenshots/1%20(2).png)
 
-![Level](https://github.com/pervelaHemanth23/M.A.R.S-Mobile/blob/main/Screenshots/Prototype%20(06-11-2024)/2.jpg)
+![Level](https://github.com/pervelaHemanth23/Obstacle-Course/blob/main/Screenshots/2%20(2).png)
 
-![Level](https://github.com/pervelaHemanth23/M.A.R.S-Mobile/blob/main/Screenshots/Prototype%20(06-11-2024)/3.jpg)
-
-![Level](https://github.com/pervelaHemanth23/M.A.R.S-Mobile/blob/main/Screenshots/Prototype%20(06-11-2024)/4.jpg)
 
 ## Thank You!
 
