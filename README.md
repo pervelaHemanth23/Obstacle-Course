@@ -11,7 +11,7 @@ The controls:
 
 *Version 2: Added obstacles that change colour when collided with by the player.*
 
-*Version 1: Added a lot of obstacles, triggers for various events and optimised the visuals for low end devices.*
+*FINAL 1: Added a lot of obstacles, triggers for various events and optimised the visuals for low end devices.*
 
 ### Key Features
 1. The game is made using URP (Universal Render pipeline). 
@@ -35,5 +35,5 @@ The controls:
 
 ### DOWNLOADING THE GAME
 
-There are 3 versions of Android available in the Repo. Feel free to try all or you can directly download the FINAL1.apk
+There are 3 versions of Android available in the Repo. Feel free to try all or you can directly download the FINAL 1.apk
 The PC Version can be accessed by extracting the *.zip* file named *Obstacle Course PC.zip*
